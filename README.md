@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I am rdv296.
 
-<!--
-**iamrdv296/iamrdv296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm currently working on [evdev-classifier](https://github.com/iamrdv296/evdev-classifier), a rust crate that classifies input devices properties into device kinds (e.g. keyboard and mouse).
 
-Here are some ideas to get you started:
+- More, next time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Language & Tools
+![Rust](https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Fedora Silverblue](https://img.shields.io/badge/Fedora_Silverblue-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Android Custom ROMs](https://img.shields.io/badge/Android_Custom_ROMs-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Community:
+- [Revived my 10 year-old Galaxy Tab A (SM-T585) with a Custom ROM](https://www.reddit.com/r/GalaxyTab/comments/1wrobdi/revived_my_10_yearold_galaxy_tab_a_smt585_with_a/)
+
