@@ -15,3 +15,4 @@
 ### Community:
 - [Revived my 10 year-old Galaxy Tab A (SM-T585) with a Custom ROM](https://www.reddit.com/r/GalaxyTab/comments/1wrobdi/revived_my_10_yearold_galaxy_tab_a_smt585_with_a/)
 
+- [Remember when phones were compact, had headphone jacks, and refused to die? My Galaxy J5 (2017) on crDroid 6.21.](https://www.reddit.com/r/vintagemobilephones/comments/1xxyovp/remember_when_phones_were_compact_had_headphone/)
